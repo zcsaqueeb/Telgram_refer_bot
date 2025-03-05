@@ -1,0 +1,8 @@
+sessions/*.session
+classes/__pycache__
+proxies.txt
+tokens.txt
+credentials.txt
+accounts.txt
+strings.txt
+.env.example
